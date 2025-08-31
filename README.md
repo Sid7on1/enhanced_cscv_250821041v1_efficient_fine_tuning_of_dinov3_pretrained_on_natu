@@ -1,0 +1,2 @@
+# enhanced_cscv_250821041v1_efficient_fine_tuning_of_dinov3_pretrained_on_natu
+AI-Generated Project: enhanced_cs.CV_2508.21041v1_Efficient_Fine_Tuning_of_DINOv3_Pretrained_on_Natu - Created by WATCHDOG Multi-Agent System

@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.CV_2508.21041v1_Efficient_Fine_Tuning_of_DINOv3_Pretrained_on_Natu",
+  "project_type": "computer_vision",
+  "completion_time": "2025-08-31T20:55:46.301830",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.CV_2508.21041v1_Efficient_Fine_Tuning_of_DINOv3_Pretrained_on_Natu"
+}
